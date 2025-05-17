@@ -1,1 +1,6 @@
 # cse251b-milestone
+
+- Trival Model includes MLP
+- Weak LSTM was a lesser version enhanced LSTM
+- Enhanced LSTM is what we frequently talk about in the report especially in 3.2b
+- 2a_code is the code needed for 2a
