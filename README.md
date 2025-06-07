@@ -1,5 +1,6 @@
-# cse251b-milestone
+# cse251b-final project
 
+(WIP Readme)
 - Trival Model includes MLP
 - Weak LSTM was a lesser version enhanced LSTM
 - Enhanced LSTM is what we frequently talk about in the report especially in 3.2b
