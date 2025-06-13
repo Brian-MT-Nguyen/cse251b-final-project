@@ -1,5 +1,11 @@
 # cse251b-final project
 
+## Final Report References Mapped to Notebook Files
+- Multi Agent GNN - better_gnn.ipynb
+- GNN Transformer v1.0 - gnn_lite.ipynb
+- Baseline LSTM - LSTM_Experiment_Final.ipynb
+- Rest should be similar to the notebook name itself
+
 ## Milestone Models
 - Trival Model includes MLP
 - Weak LSTM was a lesser version enhanced LSTM
@@ -8,9 +14,9 @@
 
 ## Final Project Models
 - kfold_transformer.ipynb is our best performing one
-- any notebook with transformer is a variantion of our best performing model
-- any notebook with gnn only in the name is for gnn experiments
+- any notebook with transformer keyword is a variantion of our best performing model
+- any notebook with gnn keyword only in the name is for gnn experiments
 - any notebook with gnn + something (i.e gnn_transformer) is the hybrid experiments
-- any ntoebook with s4 is the s4 experiments
+- any notebook with s4 keyword is the s4 experiments
 - kfold_transformer-lite.ipynb was used to compare against best performing in Ablations
 - s4 model uses model code from this [repo](https://github.com/state-spaces/s4) (Structured State Spaces for Sequence Modeling).
