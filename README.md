@@ -16,7 +16,8 @@
 - kfold_transformer.ipynb is our best performing one
 - any notebook with transformer keyword is a variantion of our best performing model
 - any notebook with gnn keyword only in the name is for gnn experiments
-- any notebook with gnn + something (i.e gnn_transformer) is the hybrid experiments
+- any notebook with gnn + something (i.e gnn_transformer and gnn_lite) is the hybrid experiments
+- better_gnn_apple.ipynb was specifically one of Jeremy's experiments
 - any notebook with s4 keyword is the s4 experiments
 - kfold_transformer-lite.ipynb was used to compare against best performing in Ablations
 - s4 model uses model code from this [repo](https://github.com/state-spaces/s4) (Structured State Spaces for Sequence Modeling).
